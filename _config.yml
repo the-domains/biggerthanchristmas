@@ -1,14 +1,8 @@
 layout_spectrum: 0.470489
-typography_spectrum: 0.8650928
 color:
   saturation: 1
   lightness: 0.8887015
   brandStrength: 0.2597013
   rhythmicContrast: 0.7099494
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+typography_spectrum: 0.5261383
 name: BiggerThanChristmas
